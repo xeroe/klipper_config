@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-r 640x640 -f 10 -d /dev/v4l/by-id/usb-Etron_Technology__Inc._USB_2.0_EM-Camera2_5M-video-index0"

@@ -1,0 +1,4 @@
+.webcamImage {
+transform: rotate(-90deg);
+aspect-ratio: 1 / 1;
+}
